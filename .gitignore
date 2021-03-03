@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore vscode config
 .vscode
+
+# Ignore ressources for pandas_flavor installation
+.src
