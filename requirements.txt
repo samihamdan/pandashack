@@ -1,2 +1,2 @@
 pandas
--e git+https://github.com/samihamdan/pandas_flavor@master#egg=pandas_flavor
+-e git+https://github.com/samihamdan/pandas_flavor@register_groupby#egg=pandas_flavor
